@@ -11,22 +11,29 @@
 
 ### Bài tập 6.3 – Hệ thống quản lý công việc và tiến độ dự án
 
+<img width="960" height="1022" alt="image" src="https://github.com/user-attachments/assets/d0afbc41-4a59-484e-9b7a-23f28ffc7175" />
+<img width="960" height="1012" alt="image" src="https://github.com/user-attachments/assets/52f8d170-6fef-4c0f-8b56-62dc67822f84" />
 
 
 **Màn hình chính và giao diện Kanban/List View**
 
+<img width="960" height="1017" alt="image" src="https://github.com/user-attachments/assets/1d8a36a8-b267-46c1-9408-38f759329878" />
 
 
 **Quản lý dự án và công việc**
 
+<img width="1917" height="1006" alt="image" src="https://github.com/user-attachments/assets/973a9ace-3da3-4aa0-be61-06cfa02d7a1a" />
+<img width="1917" height="695" alt="image" src="https://github.com/user-attachments/assets/e1a49c2c-13ea-4e65-925b-749c87c83b4f" />
 
 
 **Phân công và cập nhật trạng thái công việc**
 
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/1d8a3f5f-e13e-4296-857c-634dd22976ac" />
 
 
 **Báo cáo tiến độ và tỷ lệ hoàn thành**
 
+<img width="1917" height="755" alt="image" src="https://github.com/user-attachments/assets/76d92923-2f1f-4c42-bc95-027e148cd09c" />
 
 
 **Cảnh báo công việc quá hạn và xử lý dữ liệu**
