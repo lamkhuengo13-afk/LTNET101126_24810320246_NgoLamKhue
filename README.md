@@ -35,27 +35,31 @@
 
 ### Bài tập 6.4 – Hệ thống quản lý Garage và bảo dưỡng xe ô tô
 
+<img width="1183" height="733" alt="image" src="https://github.com/user-attachments/assets/18ccf102-624e-4ff7-a947-c5bb51e36c8d" />
 
 
 **Màn hình chính của hệ thống Garage**
 
+<img width="1182" height="737" alt="image" src="https://github.com/user-attachments/assets/b92b5a05-5473-4adb-9539-5cf29ab71293" />
+<img width="1176" height="742" alt="image" src="https://github.com/user-attachments/assets/7a817891-2254-44d6-ab9a-d2ccea9985de" />
 
 
 **Quản lý khách hàng, xe và phụ tùng**
 
+<img width="1167" height="737" alt="image" src="https://github.com/user-attachments/assets/e0f96fa7-9cbe-40e0-9b29-e3eda147bc7e" />
 
 
 **Lập phiếu sửa chữa và thay thế phụ tùng**
 
+<img width="1180" height="726" alt="image" src="https://github.com/user-attachments/assets/596a2a2b-1b10-4b31-8641-a81cbf4eac06" />
 
 
 **Thanh toán và thống kê chi phí sửa chữa**
 
+<img width="1167" height="27" alt="image" src="https://github.com/user-attachments/assets/94d9aed9-c5ca-4219-bb2d-14707f79488d" />
 
 
 **Kiểm tra tồn kho và xử lý Transaction Rollback**
-
-
 
 ### Bài tập 6.5 – Hệ thống quản lý đặt phòng và dịch vụ Karaoke
 
