@@ -63,26 +63,21 @@
 
 ### Bài tập 6.5 – Hệ thống quản lý đặt phòng và dịch vụ Karaoke
 
+<img width="1180" height="737" alt="image" src="https://github.com/user-attachments/assets/2c4642e5-1a5f-4908-bf09-0ab96aa72216" />
 
 
 **Sơ đồ phòng hát trực quan**
 
+<img width="1178" height="742" alt="image" src="https://github.com/user-attachments/assets/9697d56f-c0ab-4edd-b6fb-246484eb7fdf" />
 
 
 **Quản lý phòng hát và danh mục dịch vụ**
 
+<img width="1177" height="731" alt="image" src="https://github.com/user-attachments/assets/453f40b4-7f9b-4f0f-a6b5-9efa50990b71" />
+<img width="1177" height="732" alt="image" src="https://github.com/user-attachments/assets/31f7a282-c2e4-4c17-9bc7-24eb2cdf89ae" />
+<img width="1173" height="736" alt="image" src="https://github.com/user-attachments/assets/f47b278d-b1b4-40d0-b916-ceb1bbcf5507" />
 
 
 **Mở phòng, gọi dịch vụ và thanh toán**
 
 
-
-**Thống kê hóa đơn và doanh thu**
-
-
-
-**Kiểm tra tồn kho và xử lý lỗi giao dịch**
-
-
-
-##
